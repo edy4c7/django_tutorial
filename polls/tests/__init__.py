@@ -1,0 +1,3 @@
+from polls.tests.question_index_view_test import QuestionIndexViewTests
+from polls.tests.question_detail_view_tests import QuestionDetailViewTests
+from polls.tests.question_model_tests import QuestionModelTests
